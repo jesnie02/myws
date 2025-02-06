@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PnxNdKDYU18=",
+  "success": true,
+  "projectFilePath": "C:\\fullstack\\myws\\myws.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guf26\\.nuget\\packages\\fleck\\1.2.0\\fleck.1.2.0.nupkg.sha512",
+    "C:\\Users\\guf26\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\guf26\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
